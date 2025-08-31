@@ -162,7 +162,7 @@ p.note { display: none; }
 
 <div class="media-container">
  
-<h2><span class="yellow">29日、西の空に夕陽がポッカリと浮かびます、建物は日系のメーカー工場</span></h2>
+<h2><span class="yellow">29日、西の空に夕陽がポッカリと浮かびます、建物は日系メーカーの工場</span></h2>
 <a href="20250831_001.JPG" target="_blank"><img src="20250831_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20250831_002.JPG" target="_blank"><img src="20250831_002.JPG" alt="サンプル画像" class="responsive-media"></a>
     
