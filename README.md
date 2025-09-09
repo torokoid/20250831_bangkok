@@ -149,7 +149,7 @@ p.note { display: none; }
 
 <!--QRコードの挿入例-->
 <p align="left"> <img src="QR_2025Aug31.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
-<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/08/29-31、夕陽の空から、生垣のお花達と野鳥の鳴き声まで!!!</marquee></span></h1>
@@ -357,18 +357,20 @@ p.note { display: none; }
 <br><br><br>
 <h2><span class="yellow">以上、夕陽の空から、生垣のお花達と野鳥の鳴き声まででした。<br>ここまでご覧いただきありがとうございました。</span></h2>
 
+
+<!--
 <br><br><br><br><br>
 <h2><span class="yellow">
 <a href="https://torokoid.github.io/Mashiko_himawari_3/" target="_blank">クリックでメニューページに戻ります</a>
 </span></h2>
-
+-->
 
 <br><br><br>
 
-<!-- hitwebcounter Code START -->
+<!-- hitwebcounter Code START --><!--
 <a href="https://www.hitwebcounter.com" target="_blank">
 <p>あなたは <img src="https://hitwebcounter.com/counter/counter.php?page=21345151&style=0018&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />番目の訪問者です<br>数値は8月1日以降に立ち上げたバンコクシリーズHPの累計です</p></a>   
-
+-->
 
 
 
@@ -394,7 +396,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2025/08/31 alis @Bangkok</p>
+<p>Copyright 2025/08/31 S.Hada @Bangkok</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
